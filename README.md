@@ -1,6 +1,6 @@
 # Termux Ohmyzsh 
 
-``## Untuk Mempercantik Tampilan Termux!``
+## Untuk Mempercantik Tampilan Termux!
 
 ### [+] Created By : @Ridwanz
 
